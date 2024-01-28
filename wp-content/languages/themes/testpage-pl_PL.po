@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Page Template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-28 08:47+0000\n"
+"PO-Revision-Date: 2024-01-28 08:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: testpage"
+
+#: index.php:93
+msgid "Agree to terms and conditions"
+msgstr ""
+
+#: index.php:88
+msgid "Confirm password"
+msgstr "Powtórz hasło"
+
+#: index.php:78
+msgid "Email"
+msgstr "Email"
+
+#: index.php:83
+msgid "Password"
+msgstr "Hasło"
+
+#: index.php:97
+msgid "Registration"
+msgstr "Rejestracja"
+
+#. Name of the theme
+msgid "Test Page Template"
+msgstr "Test Page Template"
+
+#: index.php:73
+msgid "User Name"
+msgstr "Imie"
+
+#. Author of the theme
+msgid "Аноним"
+msgstr ""
